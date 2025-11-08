@@ -49,7 +49,7 @@ I'm currently expanding my skills in:
 
 ### 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kishore-vallamreddy)
+- 💼 [LinkedIn](https://www.linkedin.com/inkishorevreddy156
 - 📧 Email: kishorevallamreddy@gmail.com
 - 🌐 [GitHub](https://github.com/kish1562)
 
