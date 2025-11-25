@@ -40,7 +40,7 @@ I'm currently expanding my skills in:
 
 ### 🧪 Featured AI/ML Projects
 
-- 🔥 [Calorie Prediction ML](https://github.com/kish1562/Predicting-calories-ML): Predicts calories burned using biometric and activity features with model explainability.
+- 🔥 [Calorie Prediction ML](https://github.com/kish1562/Predciting-calories-ML): Predicts calories burned using biometric and activity features with model explainability.
 - 🧠 AI-Powered Story Generator (WIP): Generates interactive storylines with emotion-aware background music and speech synthesis.
 - 🐦 Wildlife Audio Classifier (Kaggle): Classifies bird and mammal sounds using spectrograms and deep learning.
 - 📦 Drug Info Scraper & Dashboard *(Coming Soon)*: Automates pharma data extraction and builds real-time dashboards using Python + Power BI.
