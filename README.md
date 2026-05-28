@@ -27,13 +27,13 @@ AI and Azure Data Engineer with 3+ years of experience building scalable ETL pip
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Agent for Lead Generation](github.com/kish1562/azure-data-pipeline-medallion)
+### 🤖 [AI Agent for Lead Generation](https://github.com/kish1562/ai-agent-lead-gen.git)
 > Agentic AI system using LangGraph and Azure AI Foundry for automated lead qualification
 - Planner-executor-verifier workflow achieving 95% response accuracy (English & Spanish)
 - Salesforce integration via MCP Server for real-time lead creation and enrichment
 - RAG pipeline with vector embeddings in Cosmos DB for contextual memory and intent detection
 
-### 📊 [Azure Data Pipeline — Medallion Architecture](github.com/kish1562/ai-agent-lead-gen)
+### 📊 [Azure Data Pipeline — Medallion Architecture](https://github.com/kish1562/azure-data-pipeline-medallion.git)
 > End-to-end Azure data engineering pipeline with Delta Lake
 - Azure Data Factory pipelines ingesting from SQL Server and REST APIs into ADLS Gen2
 - Azure Synapse Analytics with dedicated SQL pools for petabyte-scale analytics
