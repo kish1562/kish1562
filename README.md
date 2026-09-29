@@ -161,11 +161,9 @@ I am interested in the next generation of operations work: technicians who under
 
 ## GitHub Signal
 
-![Kishore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kish1562&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kish1562&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kish1562&layout=compact&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kish1562&theme=react-dark&hide_border=true&area=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kish1562&layout=compact&theme=dark)
 
 </div>
 
