@@ -161,11 +161,22 @@ I am interested in the next generation of operations work: technicians who under
 
 ## GitHub Signal
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kish1562&show_icons=true&theme=dark)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kish1562&layout=compact&theme=dark)
+![GitHub](https://img.shields.io/badge/GitHub-kish1562-181717?style=for-the-badge&logo=github&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects-AI%20Automation%20%2B%20Infrastructure-2563EB?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Data%20Center%20Operations-16A34A?style=for-the-badge)
 
 </div>
+
+I use GitHub to show practical side projects in automation, cloud data pipelines, infrastructure documentation, and technician-ready labs.
+
+| Signal | What It Shows |
+|---|---|
+| AI automation projects | Workflow design, API integration, logging, documentation |
+| Azure and data projects | Cloud systems, reliability, troubleshooting, production thinking |
+| Data center lab roadmap | Linux checks, network troubleshooting, asset tracking, incident response |
+| README documentation | Clear SOP-style writing for technical operations |
 
 ---
 
